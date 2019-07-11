@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/UX015454/Downloads/JARS/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UX015454/Downloads/JARS/google-collect-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UX015454/Downloads/JARS/apache-commons-net.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UX015454/Downloads/JARS/imageinfo-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UX015454/Downloads/JARS/apache-ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UX015454/Downloads/JARS/commons-compress-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
